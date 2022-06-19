@@ -130,6 +130,6 @@ hash(keyO) % 4 = 1 이면,
 [참조1](https://velog.io/@mmy789/System-Design-6)
 [참조2](https://velog.io/@dev-log/%EC%95%88%EC%A0%95-%ED%95%B4%EC%8B%9C-%EC%84%A4%EA%B3%84Consistent-hashing#:~:text=%EB%B0%9C%EC%83%9D%ED%95%98%EA%B2%8C%20%EB%90%9C%EB%8B%A4.-,%EC%95%88%EC%A0%95%20%ED%95%B4%EC%8B%9C%EC%99%80%20%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94,%ED%95%98%EB%8F%84%EB%A1%9D%20%ED%95%98%EB%8A%94%20%ED%95%B4%EC%8B%9C%20%EA%B8%B0%EC%88%A0%EC%9D%B4%EB%8B%A4.)
 [참조3](https://www.youtube.com/watch?v=tHEyzVbl4bg)
-
+[참조4](https://www.youtube.com/watch?v=zaRkONvyGr8)
 
 
